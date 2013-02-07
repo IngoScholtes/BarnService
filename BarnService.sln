@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarnService", "BarnService\BarnService.csproj", "{ED568C52-6B63-43D0-8039-7E3418369CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarnClient", "BarnClient\BarnClient.csproj", "{86F1ED4E-1881-495A-8486-A656C66E1FDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEditor", "SimpleEditor\SimpleEditor.csproj", "{7EE28F70-469B-4599-BCD6-7D09773EF3A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED568C52-6B63-43D0-8039-7E3418369CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED568C52-6B63-43D0-8039-7E3418369CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED568C52-6B63-43D0-8039-7E3418369CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED568C52-6B63-43D0-8039-7E3418369CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F1ED4E-1881-495A-8486-A656C66E1FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F1ED4E-1881-495A-8486-A656C66E1FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F1ED4E-1881-495A-8486-A656C66E1FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F1ED4E-1881-495A-8486-A656C66E1FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE28F70-469B-4599-BCD6-7D09773EF3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE28F70-469B-4599-BCD6-7D09773EF3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE28F70-469B-4599-BCD6-7D09773EF3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE28F70-469B-4599-BCD6-7D09773EF3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
